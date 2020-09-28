@@ -21,7 +21,12 @@ python attack.py --model ./model/noise1.tar --L2PGD  --concat
 
 If you don't set the --concat, the program will store all blocks.
 
-ID(Default 0)£º
+ID(Default 0):
 used for store the related results
 
 python attack.py --model ./model/noise1.tar --L2PGD  --concat --id 0
+
+The test models and datas are available at 
+
+linkï¼šhttps://pan.baidu.com/s/1VIJ7TFPxl_tUYmMTDAjJMA 
+passwordï¼šdli6 
